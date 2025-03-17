@@ -1,3 +1,6 @@
-nueva funcionalidad
 Mejora en la funcionalidad
 Cambio en main
+nueva-funcionalidad
+nueva funcionalidad
+Cambio en nueva funcionalidad
+nueva-funcionalidad
